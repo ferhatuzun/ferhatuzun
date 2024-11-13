@@ -1,7 +1,6 @@
 <h1 align="center">Merhaba 👋, Ben FERHAT</h1>
 <h3 align="center">Bilgisayar Programcısı</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ferhatuzun&label=Profile%20views&color=0e75b6&style=flat" alt="ferhatuzun" /> </p>
 
 <h3 align="left">İletişime Geç:</h3>
 <p align="left">
@@ -15,3 +14,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferhatuzun&show_icons=true&locale=en&layout=compact" alt="ferhatuzun" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferhatuzun&show_icons=true&locale=en" alt="ferhatuzun" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ferhatuzun&label=Profile%20views&color=0e75b6&style=flat" alt="ferhatuzun" /> </p>
